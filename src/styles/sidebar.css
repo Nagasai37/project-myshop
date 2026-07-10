@@ -1,0 +1,27 @@
+.sidebar{
+
+width:220px;
+
+background:white;
+
+padding:20px;
+
+height:90vh;
+
+}
+
+.sidebar ul{
+
+list-style:none;
+
+margin-top:20px;
+
+}
+
+.sidebar li{
+
+padding:10px;
+
+cursor:pointer;
+
+}
